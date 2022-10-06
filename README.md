@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riachandran I am a data-science enthusiast currently pursuing my Masters in Computer Science from Georgia State University, Atlanta. 
-- 👀 I’m interested in Machine Learning, Python Programming, Data Visualization and Data Engineering.
+- 👀 I’m interested in Machine Learning, Python Programming, Data Visualization and Data Engineering. I am also open to exploring various tech stacks outside the Data Science domain!
 - 🌱 I’m currently gearing up for a full time role post my graduation, feel free to check out my work!
 - 📫 How to reach me - riachandrantp@gmail.com
 
