@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riachandran working as a Data Scientist at KMS Technology, with a masters in Computer Science from Georgia State University, Atlanta. 
+- 👋 Hi, I’m @riachandran, a Data Scientist with a masters in Computer Science from Georgia State University, Atlanta. 
 - 👀 I’m interested in Machine Learning, Python Programming, Data Visualization and Data Engineering. I am also open to exploring various tech stacks outside the Data Science domain!
 - 📫 How to reach me - riachandrantp@gmail.com
 
