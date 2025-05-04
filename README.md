@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riachandran, a Data Scientist with a masters in Computer Science from Georgia State University, Atlanta. 
-- 👀 I’m interested in Machine Learning, Python Programming, Data Visualization and Data Engineering. I am also open to exploring various tech stacks outside the Data Science domain!
+- 👀 I’m interested in ML/AI, Python Programming, Statistical Data Analysis and Data Engineering. I am also open to exploring various tech stacks outside the Data Science domain!
 - 📫 How to reach me - rthpunathil@gmail.com
 
 <!---
